@@ -1,5 +1,8 @@
 {
   "name": "ed-tunnel",
   "version": "1.0.0",
-  "main": "_worker.js"
+  "main": "_worker.js",
+  "scripts": {
+    "build": "echo no-build"
+  }
 }
